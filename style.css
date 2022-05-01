@@ -218,3 +218,25 @@ blockquote{
     justify-self: left;
     background-color: #efefef;
 }
+
+/* ----------SOURCES---------- */
+.sources p{
+    font-size: 25px;
+    margin-right: 60px;
+
+    /* hanging indent */
+    padding-left: 25px;
+    text-indent: -25px;
+}
+.sources-bt a:link{
+    color: #33c0f8;
+}
+.sources-bt a:visited{
+    color: #33c0f8;
+}
+.sources-bt a:hover{
+    color: #04a6e6;
+}
+.sources-bt a:active{
+    color: #6ed6ff;
+}
